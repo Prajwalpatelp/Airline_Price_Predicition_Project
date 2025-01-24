@@ -136,8 +136,7 @@ The following libraries and tools were used to develop this project:
 - R² Score
 
 ### **Deployment**:
-- Streamlit
-- Pickle (for saving trained models)
+- Streamlit app
 
 ---
 
