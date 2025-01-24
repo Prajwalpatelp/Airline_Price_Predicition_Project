@@ -1,14 +1,5 @@
 # Virtual environment
 venv/
-
-# Images and distribution plots
-p1.png
-Airline_Distrubition.png
-images.jpg
-Price_Airline.png
-Price_Distrubition.png
-Price_distubition_source_Destination.png
-
 # Other temporary or cache files
 *.pyc
 __pycache__/
